@@ -1,4 +1,4 @@
-# Port Sniffer CLI
+# Port Sniffer CLI - Rust
 
 A simple command-line tool written in Rust to listen on a specified port and handle incoming connections. It also provides the functionality to check if a specific port is available for use.
 
